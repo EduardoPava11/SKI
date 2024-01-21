@@ -1,3 +1,1 @@
-# SKI
-# SKI
-# SKI
+-- S,K,I combinators ? Used to Map a Game
